@@ -6,6 +6,7 @@ users:
   - githubUsername: aslicerh
   - githubUsername: omajid
   - githubUsername: tmds
+  - githubUsername: komish
 vendor:
   label: redhat
   name: Red Hat
